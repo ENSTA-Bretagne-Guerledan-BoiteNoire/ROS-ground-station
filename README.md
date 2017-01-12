@@ -8,10 +8,10 @@ This ROS package uses nmea_navsat_driver
 
 dependencies : 
     
-     - nmea_navsat_driver
+     - nmea_navsat_driver ?
      - catkin
-     - geometry_msgs
-     - nmea_msgs
-     - roslint
+     - geometry_msgs ?
+     - nmea_msgs ?
+     - roslint ?
      - rospy
-     - sensor_msgs
+     - sensor_msgs ?
