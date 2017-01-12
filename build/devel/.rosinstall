@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/viki/my_ws/src/gpsd_viewer/build/devel/setup.sh
