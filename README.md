@@ -15,3 +15,11 @@ dependencies :
      - roslint ?
      - rospy
      - sensor_msgs ?
+
+    osm-gps-map : on a pas besoin de récupérer le package pour ros
+    C'est uniquement 
+    sudo apt-get install libosmgpsmap-dev python-osmgpsmap
+    http://nzjrs.github.io/osm-gps-map/
+    Pour savoir comment installer osm-gps-map
+    
+    
